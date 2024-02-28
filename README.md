@@ -5,3 +5,4 @@
 Download "2DsMax-x64.zip" or "2DsMax-x86.zip" and run WindowsProject2.exe.
 ## How to Build Locally
 For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
+## You can change stroke color and stroke width
