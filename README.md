@@ -12,6 +12,7 @@ For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ![ezgif-5-e31f8804a7](https://github.com/Pythonese/2DsMax/assets/127021579/e509e7ce-9e78-49a0-b41d-9bc0cc0b017b)
 
 ## Rotate your lines
+![ezgif-3-3e67c04ebb](https://github.com/Pythonese/2DsMax/assets/127021579/3936397f-5ee8-4f23-8a5a-fdce893afa6e)
 
 ## Scale your lines
 
