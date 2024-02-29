@@ -9,4 +9,5 @@ For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ![ezgif-4-00c6baed41](https://github.com/Pythonese/2DsMax/assets/127021579/2eaf9f86-f6c2-4ff2-b03b-fc2de4056201)
 
 ## Move your lines
+![ezgif-5-e31f8804a7](https://github.com/Pythonese/2DsMax/assets/127021579/e509e7ce-9e78-49a0-b41d-9bc0cc0b017b)
 
