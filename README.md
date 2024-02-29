@@ -6,7 +6,7 @@ Download "2DsMax-x64.zip" or "2DsMax-x86.zip" and run WindowsProject2.exe.
 ## How to Build Locally
 For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ## Change stroke color and stroke width
-![2024-02-29-15-28-11](https://github.com/Pythonese/2DsMax/assets/127021579/113a54a5-101f-48c3-bf50-f6e9ad9e445d)
+![ezgif-4-00c6baed41](https://github.com/Pythonese/2DsMax/assets/127021579/2eaf9f86-f6c2-4ff2-b03b-fc2de4056201)
 
 ## Move your lines
 
