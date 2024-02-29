@@ -11,3 +11,12 @@ For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ## Move your lines
 ![ezgif-5-e31f8804a7](https://github.com/Pythonese/2DsMax/assets/127021579/e509e7ce-9e78-49a0-b41d-9bc0cc0b017b)
 
+## Rotate your lines
+
+## Scale your lines
+
+## Transform them the way you like it
+
+## Add middle frames
+
+## Export your animation like 2DsMax file
