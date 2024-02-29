@@ -18,6 +18,7 @@ For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ![ezgif-3-73ac8aa831](https://github.com/Pythonese/2DsMax/assets/127021579/e9bd3725-73d7-4588-b24c-896b01d93732)
 
 ## Transform them the way you like it
+![ezgif-3-68c26472c1](https://github.com/Pythonese/2DsMax/assets/127021579/3171b471-ba4c-4427-9508-2c5bf9f3accb)
 
 ## Add middle frames
 
