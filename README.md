@@ -23,4 +23,4 @@ For building it run "2DsMax-source/WindowsProject2.sln" with Visual Studio.
 ## Add middle frames
 
 ## Export your animation like 2DsMax file
-![ezgif-3-951f88f7c1](https://github.com/Pythonese/2DsMax/assets/127021579/2e56745b-2225-4aad-b1b0-ec94e28d839d)
+![ezgif-3-4cc6edfa94](https://github.com/Pythonese/2DsMax/assets/127021579/3032490b-b24d-4ab1-bd20-4e4bc2f2bba3)
